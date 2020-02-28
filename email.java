@@ -12,8 +12,6 @@ public class email {
    private String company = "company.com";
    private int mailBoxCapacity = 500;
    private String AlternateEmail;
-   //public email(String string, String string2) {
-	// TODO Auto-generated constructor stub
 
 //Constructor to receive first name and last name.
    public email(String Firstname, String Lastname)
